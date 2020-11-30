@@ -5,6 +5,7 @@
 - 리덕스 
   - Redux개념 이해 (<a href="https://velog.io/@tjdud0123/Redux-%EB%B0%8F-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4-Redux-saga-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A6%AC">링크</a>)
   - Redux개념 이해(2) (<a href="https://velog.io/@velopert/Redux-1-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-zxjlta8ywt">링크</a>)
+  - Redux Counter예제 (<a href="https://hong-jh.tistory.com/26?category=1166152">링크</a>)
 
 - CSS
   - CSS 알아두면 좋은 팁 (<a href="https://webclub.tistory.com/364">링크</a>)
