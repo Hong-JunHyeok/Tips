@@ -18,3 +18,6 @@
   [DynCSS 스크롤 애니메이션](https://www.vittoriozaccaria.net/dyn-css/#what-is-it) <br />
   [Hover 애니메이션](http://ianlunn.github.io/Hover/) <br />
   [AOS 스크롤 애니메이션](https://michalsnik.github.io/aos/) <br />
+
+- Parallax 구현하기 
+  [링크](https://hong-jh.tistory.com/47)
