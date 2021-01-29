@@ -9,15 +9,16 @@
   - Redux TodoList예제(바닐라JS) (<a href="https://hong-jh.tistory.com/27">링크</a>)
 - CSS
   - CSS 알아두면 좋은 팁 (<a href="https://webclub.tistory.com/364">링크</a>)
+  - [Parallax 구현](https://hong-jh.tistory.com/47)
 - Github 
   - 깃허브 올리기 (<a href="https://victorydntmd.tistory.com/53">링크</a>)
 
 - 애니메이션 라이브러리 <br />
-  [매직 애니메이션](https://www.minimamente.com/project/magic/) <br />
-  [ANIME 라이브러리](https://animejs.com/documentation/) <br />
-  [DynCSS 스크롤 애니메이션](https://www.vittoriozaccaria.net/dyn-css/#what-is-it) <br />
-  [Hover 애니메이션](http://ianlunn.github.io/Hover/) <br />
-  [AOS 스크롤 애니메이션](https://michalsnik.github.io/aos/) <br />
+  - [매직 애니메이션](https://www.minimamente.com/project/magic/) <br />
+  - [ANIME 라이브러리](https://animejs.com/documentation/) <br />
+  - [DynCSS 스크롤 애니메이션](https://www.vittoriozaccaria.net/dyn-css/#what-is-it) <br />
+  - [Hover 애니메이션](http://ianlunn.github.io/Hover/) <br />
+  - [AOS 스크롤 애니메이션](https://michalsnik.github.io/aos/) <br />
 
-- Parallax 구현하기 
-  [링크](https://hong-jh.tistory.com/47)
+- 아이콘 모음 사이트
+  - [fontawesome](https://fontawesome.com/icons?d=gallery)
