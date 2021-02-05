@@ -10,6 +10,8 @@
 - CSS
   - CSS 알아두면 좋은 팁 (<a href="https://webclub.tistory.com/364">링크</a>)
   - [Parallax 구현](https://hong-jh.tistory.com/47)
+  - [box-shadow 코드모음](https://getcssscan.com/css-box-shadow-examples)
+  
 - Github 
   - 깃허브 올리기 (<a href="https://victorydntmd.tistory.com/53">링크</a>)
 
